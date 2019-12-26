@@ -172,11 +172,13 @@ nav a:hover {
    Media Queries
    ========================================================================== */
 
-@media only screen and (min-width: 5px) {
+@media only screen and (min-width: 0px) {
 
 /* ====================
     INTERMEDIATE: Menu
    ==================== */
+
+
 
     nav a {
         float: left;
