@@ -86,6 +86,7 @@ body {
 
 .title {
     color: white;
+    
 }
 
 /* ==============
@@ -186,6 +187,7 @@ nav a:hover {
         margin: 0 1.7%;
         padding: 25px 2%;
         margin-bottom: 0;
+        margin-top: 10px;
     }
 
     nav li:first-child a {
