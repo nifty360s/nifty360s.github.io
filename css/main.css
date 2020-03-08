@@ -394,7 +394,7 @@ nav a:hover {
 .thumb:hover {opacity: 0.6;}
 
 .thumb img {
-    max-width: 300px;
+    width: 100%;
     box-shadow: 0 2px 10px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
