@@ -399,6 +399,7 @@ nav a:hover {
 }
 
 .thumb h2 {
-    line-height: 0px;
+    margin-top: 5px;
+    line-height: auto;
     text-align: left;
 }
