@@ -403,3 +403,8 @@ nav a:hover {
     line-height: auto;
     text-align: left;
 }
+ .about {
+   font-size: 25px;
+   line-height: 40px;
+
+ }
