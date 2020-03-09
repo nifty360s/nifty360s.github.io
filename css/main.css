@@ -435,8 +435,7 @@ nav a:hover {
 
  .navlink a:link {
    font-family: 'Anton', sans-serif;
-   font-size: 20px;
-   font-kerning: 5;
+   font-size: 25px;
    text-transform: uppercase;
-   
+
  }
