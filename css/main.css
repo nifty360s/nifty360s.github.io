@@ -420,6 +420,8 @@ nav a:hover {
      font-family: 'Anton', sans-serif;
      font-size: 70px;
      line-height: 80px;
+     overflow-x: hidden; //horizontal
+     overflow-y: scroll; //vertical
    }
  }
 
