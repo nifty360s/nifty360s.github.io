@@ -432,3 +432,8 @@ nav a:hover {
    color: #222;
    text-decoration: none;
  }
+
+ .navlink a:link {
+   font-family: 'Anton', sans-serif;
+   font-size: 20px;
+ }
