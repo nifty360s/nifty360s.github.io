@@ -440,11 +440,19 @@ nav a:hover {
    text-transform: uppercase;
  }
 
+ .navlink a:hover {
+   font-family: 'Anton', sans-serif;
+   font-weight: normal;
+   font-size: 23px;
+   text-transform: uppercase;
+   text-decoration: none;
+
+ }
+
  .navlink a:active {
    font-family: 'Anton', sans-serif;
    font-weight: normal;
    font-size: 23px;
-   color: #222;
    text-transform: uppercase;
    text-decoration: none;
 
