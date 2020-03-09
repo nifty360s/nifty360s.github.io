@@ -403,8 +403,24 @@ nav a:hover {
     line-height: auto;
     text-align: left;
 }
+
  .about {
    font-size: 25px;
    line-height: 40px;
+ }
 
+ .contact {
+   font-family: 'Anton', sans-serif;
+   font-size: 100px;
+   line-height: 110px;
+ }
+
+ .contact a:link {
+   color: #222;
+   text-decoration: none;
+ }
+
+ .contact a:visited {
+   color: #222;
+   text-decoration: none;
  }
