@@ -415,6 +415,14 @@ nav a:hover {
    line-height: 110px;
  }
 
+ @media screen and (max-width: 400px) {
+   .contact {
+     font-family: 'Anton', sans-serif;
+     font-size: 70px;
+     line-height: 80px;
+   }
+ }
+
  .contact a:link {
    color: #222;
    text-decoration: none;
